@@ -46,4 +46,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Savannah ramirez - [@kavvannah](https://twitter.com/kavvanah) - savannahramirez58@icloud.com
+Savannah Ramirez - [@kavvannah](https://twitter.com/kavvannah) - savannahramirez58@icloud.com
